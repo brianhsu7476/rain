@@ -1,0 +1,93 @@
+distance	climb	name 1	name 2	name 3	name 4	name 5	name 6	route
+52.2	2,623	哲瑋 張: time=3:45:56, rank=8	耿宏 朱: time=3:56:03, rank=11	尚齊 吳: time=3:58:35, rank=13	博翔 許: time=4:17:40, rank=16			Neverstop Wulin
+4.8	206	博翔 許: time=16:13, rank=1	哲瑋 張: time=21:58, rank=6					鸞山－千光
+5.3	61	博翔 許: time=9:03, rank=1						東5 (全)
+5.6	66	博翔 許: time=12:08, rank=1	耿宏 朱: time=14:28, rank=3					台20甲 (全)
+0.9	61	博翔 許: time=3:14, rank=1						南進永恆的旅者
+14.2	745	尚齊 吳: time=57:15, rank=7	哲瑋 張: time=1:01:01, rank=9	耿宏 朱: time=1:17:09, rank=17				Yangjin full climb
+4.9	89	哲瑋 張: time=12:52, rank=2	博翔 許: time=13:25, rank=5	耿宏 朱: time=13:32, rank=6				9丙鯉魚潭
+1.5	92	哲瑋 張: time=9:55, rank=1						文泰路32號 Climb
+2.2	143	博翔 許: time=10:36, rank=3	冠賢 吳: time=14:09, rank=6					龍過脈-初鹿牧場
+2.3	34	博翔 許: time=3:52, rank=1	冠賢 吳: time=10:15, rank=8	耿宏 朱: time=11:38, rank=10	哲瑋 張: time=12:40, rank=11			高台1圈
+2.2	151	博翔 許: time=9:14, rank=1						Luye Hill Industrial Road 
+3.6	223	博翔 許: time=13:23, rank=1	哲瑋 張: time=28:26, rank=6					鹿野高台背上
+1.7	73	博翔 許: time=4:58, rank=1	哲瑋 張: time=6:05, rank=4	耿宏 朱: time=7:40, rank=14	尚齊 吳: time=9:28, rank=18			Tropics of Cancer Monument Climb from Ruisui
+0.5	72	博翔 許: time=3:46, rank=1						保慶宮小捷徑
+12.9	573	哲瑋 張: time=53:18, rank=4						廣興(平廣路)至獅仔頭山觀景台
+6.9	596							逐鹿山ITT 
+12.0	651	哲瑋 張: time=50:54, rank=4	博翔 許: time=51:35, rank=5	尚齊 吳: time=59:38, rank=12	耿宏 朱: time=1:03:15, rank=18	冠賢 吳: time=1:42:50, rank=25		106_OK to 大球
+7.7	263	尚齊 吳: time=21:23, rank=5	哲瑋 張: time=25:00, rank=10	博翔 許: time=26:58, rank=11	耿宏 朱: time=39:40, rank=22			197 Race full final climb
+120.8	269	尚齊 吳: time=3:25:24, rank=4	哲瑋 張: time=3:26:53, rank=6	博翔 許: time=3:31:00, rank=8	耿宏 朱: time=4:50:32, rank=19			2018戀戀197 130k挑戰組
+2.6	231	哲瑋 張: time=12:46, rank=7	尚齊 吳: time=13:46, rank=10	博翔 許: time=15:54, rank=16	冠賢 吳: time=39:53, rank=30	天盛 鄭: time=44:45, rank=32		迴轉-草楠橋
+6.1	311	博翔 許: time=25:18, rank=7	哲瑋 張: time=33:39, rank=15	尚齊 吳: time=48:35, rank=23	天盛 鄭: time=1:06:41, rank=25			貓空草湳線 / 國道前岔路口~貓纜站
+3.1	238	耿宏 朱: time=15:49, rank=8	博翔 許: time=17:30, rank=9	哲瑋 張: time=22:28, rank=11				中正山(岔路口-停車場岔路口)
+11.6	445	博翔 許: time=37:57, rank=4	哲瑋 張: time=49:04, rank=10	耿宏 朱: time=55:42, rank=13				Route 9 climb from 7-11 to route 199 intersection
+3.6	40	耿宏 朱: time=7:50, rank=12	博翔 許: time=7:54, rank=14	哲瑋 張: time=8:25, rank=19	天盛 鄭: time=13:27, rank=35			台七乙萊爾富-湊合橋
+4.3	137	尚齊 吳: time=12:33, rank=10	耿宏 朱: time=13:51, rank=15	哲瑋 張: time=14:00, rank=17	博翔 許: time=14:04, rank=20			角板山
+7.8	264	尚齊 吳: time=23:04, rank=12	博翔 許: time=23:40, rank=14	耿宏 朱: time=24:25, rank=16	哲瑋 張: time=26:00, rank=25	天盛 鄭: time=43:54, rank=44		台7乙 (湊合橋 -&gt; 12K)
+19.0	1,134	哲瑋 張: time=1:25:45, rank=5	尚齊 吳: time=1:29:48, rank=6	耿宏 朱: time=1:32:04, rank=8	博翔 許: time=1:41:48, rank=11			竹60起點 -&gt; 宇老派出所
+18.5	1,148	哲瑋 張: time=1:23:14, rank=6	尚齊 吳: time=1:26:05, rank=7	耿宏 朱: time=1:28:45, rank=10	博翔 許: time=1:38:20, rank=13			尖石大橋 -&gt; 竹60, 19K處岔路
+12.3	538	博翔 許: time=56:48, rank=4						八五山ITT
+6.4	389	尚齊 吳: time=23:44, rank=7	哲瑋 張: time=24:13, rank=8	博翔 許: time=26:15, rank=11	耿宏 朱: time=31:00, rank=22	天盛 鄭: time=58:26, rank=29		華城TT
+42.0	479	哲瑋 張: time=1:45:44, rank=5	尚齊 吳: time=1:53:51, rank=7	耿宏 朱: time=1:58:33, rank=11	博翔 許: time=2:00:43, rank=13			台9 (新店至宜蘭縣界)
+6.0	351	哲瑋 張: time=24:47, rank=3	耿宏 朱: time=25:29, rank=4	博翔 許: time=28:31, rank=5				觀音山(華富山路)
+5.4	354	尚齊 吳: time=27:04, rank=4	哲瑋 張: time=27:14, rank=5	博翔 許: time=28:34, rank=6				荖阡坑路上觀音山遊客中心
+3.1	6	博翔 許: time=15:40, rank=1	天盛 鄭: time=20:44, rank=2					118 神掌
+2.0	4	博翔 許: time=7:56, rank=1	天盛 鄭: time=11:03, rank=2					118 十小橫
+3.3	235	尚齊 吳: time=17:42, rank=2	博翔 許: time=18:42, rank=5	耿宏 朱: time=25:06, rank=7	哲瑋 張: time=26:32, rank=9			上坪爬大山背
+5.8	475	哲瑋 張: time=30:44, rank=4	博翔 許: time=36:51, rank=6	尚齊 吳: time=36:56, rank=7	耿宏 朱: time=39:54, rank=9			仙山靈洞宮 (from 獅潭)
+4.4	281	哲瑋 張: time=25:50, rank=2	尚齊 吳: time=26:54, rank=3	博翔 許: time=26:56, rank=4	耿宏 朱: time=31:26, rank=8			東河至苗栗新竹縣界
+3.6	324	博翔 許: time=20:53, rank=3	哲瑋 張: time=22:43, rank=4					中直路上觀音山遊客中心
+1.0	3	博翔 許: time=1:43, rank=1	尚齊 吳: time=1:52, rank=3	哲瑋 張: time=1:58, rank=7	耿宏 朱: time=2:20, rank=21	冠賢 吳: time=2:25, rank=25	天盛 鄭: time=2:45, rank=30	[NTU]舟山路西行接椰林大道：往臺大正門
+1.3	36	博翔 許: time=4:07, rank=1						水火同源大客車停車場
+3.3	108	博翔 許: time=9:55, rank=1	哲瑋 張: time=9:57, rank=2					臺南市白河區172縣道關子嶺（仙草埔到紅葉隧道）
+13.0	584	耿宏 朱: time=49:36, rank=7	哲瑋 張: time=51:59, rank=9	博翔 許: time=59:29, rank=18	冠賢 吳: time=1:39:54, rank=38			冷水坑
+13.3	139	尚齊 吳: time=22:28, rank=1	哲瑋 張: time=24:11, rank=9	博翔 許: time=26:58, rank=20	耿宏 朱: time=42:28, rank=58	天盛 鄭: time=48:55, rank=59		觀光大橋~新烏路口
+7.5	454	尚齊 吳: time=32:38, rank=8	博翔 許: time=33:03, rank=9	哲瑋 張: time=43:25, rank=16				保慶宮
+2.5	6	博翔 許: time=11:58, rank=1						男一舍校園夜跑健走活動
+3.4	153	博翔 許: time=14:39, rank=3	哲瑋 張: time=16:51, rank=6					雙青公路+玉桂嶺路
+6.3	389	博翔 許: time=31:01, rank=4	哲瑋 張: time=33:29, rank=6					Zidong Rd, full climb
+4.2	138	尚齊 吳: time=11:42, rank=5	哲瑋 張: time=12:42, rank=9	博翔 許: time=12:52, rank=10	耿宏 朱: time=21:02, rank=18			Yanjiuyuan Climb
+3.7	143	哲瑋 張: time=11:18, rank=7	博翔 許: time=11:37, rank=9	耿宏 朱: time=11:39, rank=10	尚齊 吳: time=12:00, rank=13	天盛 鄭: time=19:48, rank=22		Graveyard
+6.2	335	尚齊 吳: time=23:08, rank=2	博翔 許: time=27:59, rank=7	哲瑋 張: time=32:11, rank=9				舊莊街 / 國道3號橋下~鹿窟事件紀念碑
+33.6	306							羅馬公路（關西至羅浮）
+1.3	132	博翔 許: time=8:28, rank=1						Crocodile island
+0.8	84	耿宏 朱: time=5:20, rank=9	尚齊 吳: time=5:25, rank=11	哲瑋 張: time=5:38, rank=12				三貂角燈塔 (台二入口-T字路口)
+11.2	365	哲瑋 張: time=28:14, rank=4	尚齊 吳: time=29:51, rank=7	耿宏 朱: time=31:57, rank=10	博翔 許: time=34:56, rank=13			坪林牌樓~北47路口
+18.1	327	哲瑋 張: time=44:30, rank=4	尚齊 吳: time=48:24, rank=9	博翔 許: time=53:15, rank=19	耿宏 朱: time=53:47, rank=20			台9 (坪林至宜蘭縣界)
+12.0	505	尚齊 吳: time=36:03, rank=10	哲瑋 張: time=37:18, rank=15	耿宏 朱: time=37:28, rank=16	博翔 許: time=40:39, rank=26	天盛 鄭: time=1:26:16, rank=45		北宜 / 國史館~海倫咖啡
+6.1	398	耿宏 朱: time=22:01, rank=4	尚齊 吳: time=22:23, rank=5	哲瑋 張: time=25:26, rank=14	博翔 許: time=26:44, rank=21			TAS: WanLi Bridge-FongGueiZuei (5.4k)
+0.4	10	哲瑋 張: time=35, rank=4	耿宏 朱: time=40, rank=9	尚齊 吳: time=40, rank=10	博翔 許: time=44, rank=16	天盛 鄭: time=1:12, rank=56	冠賢 吳: time=1:19, rank=58	NTU CocoBoulevard_20KM+ is a crime!! 
+3.2	245	哲瑋 張: time=15:14, rank=3	博翔 許: time=17:24, rank=6					Rénhé Road Climb
+7.3	362	哲瑋 張: time=26:08, rank=5	尚齊 吳: time=26:24, rank=6	耿宏 朱: time=29:57, rank=8	博翔 許: time=30:09, rank=9			佛陀世界TT
+20.1	204	博翔 許: time=59:10, rank=2						Hua 64
+10.3	265	博翔 許: time=31:31, rank=1						Climb of 11B start at Fengbin 711
+1.3	50	博翔 許: time=3:19, rank=1	耿宏 朱: time=7:23, rank=3					國中路上枋山車站
+12.5	744	博翔 許: time=1:08:33, rank=1						竹林產業道路上赤科山
+7.7	582	尚齊 吳: time=38:44, rank=2	博翔 許: time=43:08, rank=3					2018聽障選拔賽終點路段
+6.9	264	哲瑋 張: time=21:23, rank=2	博翔 許: time=23:19, rank=3	耿宏 朱: time=24:28, rank=5				玉長ITT
+3.5	203	哲瑋 張: time=11:38, rank=3	博翔 許: time=18:29, rank=12	耿宏 朱: time=22:08, rank=13				五林路觀音山爬坡
+2.4	239	哲瑋 張: time=16:23, rank=4	博翔 許: time=17:44, rank=5					崩山巷
+4.7	299	哲瑋 張: time=16:34, rank=3	尚齊 吳: time=18:12, rank=8	博翔 許: time=18:39, rank=10	耿宏 朱: time=28:06, rank=22			凌雲路上觀音山
+10.9	558	博翔 許: time=3:59:55, rank=1						 #自主FKT三進七星山 
+12.2	816	博翔 許: time=54:30, rank=3	耿宏 朱: time=1:10:54, rank=10	哲瑋 張: time=1:13:26, rank=12	尚齊 吳: time=1:19:11, rank=15	冠賢 吳: time=3:46:04, rank=27		百拉卡-助航站
+2.4	211	博翔 許: time=16:07, rank=11	哲瑋 張: time=16:16, rank=12	尚齊 吳: time=16:56, rank=17	耿宏 朱: time=17:24, rank=18	冠賢 吳: time=41:21, rank=39		助航站 climbing
+10.1	590	耿宏 朱: time=35:58, rank=6	博翔 許: time=38:11, rank=8	哲瑋 張: time=39:27, rank=9	尚齊 吳: time=41:48, rank=18	冠賢 吳: time=2:35:44, rank=41		巴拉卡
+2.9	240	博翔 許: time=21:47, rank=1						Puzumaya climb
+31.6	372	尚齊 吳: time=1:17:42, rank=1	博翔 許: time=1:36:36, rank=5	哲瑋 張: time=1:41:52, rank=6				新烏路口 → 福山部落警察局
+13.2	145	哲瑋 張: time=27:40, rank=7	尚齊 吳: time=28:13, rank=9	博翔 許: time=29:56, rank=13	耿宏 朱: time=40:32, rank=41	天盛 鄭: time=57:35, rank=56		新店到烏來橋
+14.3	231	哲瑋 張: time=34:33, rank=3	尚齊 吳: time=35:46, rank=7	博翔 許: time=43:12, rank=13				烏來瀑布~福山部落
+0.5	192	博翔 許: time=11:20, rank=1						大屯坪上大屯山主峰
+0.5	59	耿宏 朱: time=4:59, rank=14	尚齊 吳: time=5:02, rank=15	哲瑋 張: time=5:06, rank=16	博翔 許: time=5:34, rank=18	冠賢 吳: time=6:50, rank=25		KOM last 500m
+3.5	197	哲瑋 張: time=20:27, rank=9	耿宏 朱: time=20:45, rank=10	尚齊 吳: time=21:28, rank=12	博翔 許: time=22:37, rank=16	冠賢 吳: time=43:02, rank=30		東進武嶺Section11_小風口→松雪樓
+4.9	418	博翔 許: time=36:00, rank=9	哲瑋 張: time=37:24, rank=10	耿宏 朱: time=37:59, rank=12	尚齊 吳: time=38:25, rank=14	冠賢 吳: time=1:51:47, rank=34		東進武嶺Section10_大禹嶺→小風口
+37.8	1,272	尚齊 吳: time=3:10:06, rank=4	哲瑋 張: time=3:19:27, rank=6	耿宏 朱: time=3:26:07, rank=7	博翔 許: time=3:33:00, rank=11	冠賢 吳: time=5:45:24, rank=21		梨山-武嶺
+10.1	702	哲瑋 張: time=1:10:28, rank=9	博翔 許: time=1:13:26, rank=11	耿宏 朱: time=1:14:56, rank=13	尚齊 吳: time=1:27:10, rank=19	冠賢 吳: time=2:57:22, rank=30		大禹嶺 --&gt; 武嶺
+5.4	17	博翔 許: time=33:00, rank=1	天盛 鄭: time=43:08, rank=3					台大馬拉松-宿舍出發
+5.5	18	博翔 許: time=27:32, rank=1	天盛 鄭: time=39:26, rank=3					台大馬拉松-德田出發
+8.3	369	尚齊 吳: time=23:34, rank=7	哲瑋 張: time=24:09, rank=9	博翔 許: time=26:04, rank=15	耿宏 朱: time=29:05, rank=30			台大單車社椰林盃爬坡計時賽-決戰北47
+4.1	260	博翔 許: time=16:12, rank=7	尚齊 吳: time=17:55, rank=10	哲瑋 張: time=19:07, rank=14				貓空指南線
+9.7	216	尚齊 吳: time=20:06, rank=7	哲瑋 張: time=22:15, rank=14	博翔 許: time=22:18, rank=15	耿宏 朱: time=22:59, rank=17	天盛 鄭: time=55:05, rank=61	冠賢 吳: time=57:06, rank=62	石碇106縣道三岔路口至坡頂公車亭
+4.0	257	博翔 許: time=16:47, rank=8	尚齊 吳: time=16:51, rank=9	哲瑋 張: time=17:01, rank=10	耿宏 朱: time=27:43, rank=36	冠賢 吳: time=33:09, rank=37		五分山 Climb
+9.6	487	博翔 許: time=35:27, rank=5	哲瑋 張: time=41:39, rank=19	尚齊 吳: time=44:09, rank=26	耿宏 朱: time=53:21, rank=33	冠賢 吳: time=1:03:37, rank=38	天盛 鄭: time=1:17:42, rank=42	雙溪車站-不厭亭
+4.1	266	尚齊 吳: time=15:13, rank=10	博翔 許: time=15:16, rank=11	哲瑋 張: time=16:54, rank=17	耿宏 朱: time=22:24, rank=42	冠賢 吳: time=26:08, rank=47	天盛 鄭: time=33:47, rank=55	混元宮到明德宮
